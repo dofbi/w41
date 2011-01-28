@@ -1,0 +1,9 @@
+// $Id$
+
+Sky 7.x-1.1, 2011-01-06
+-------------------------
+by Jacine: Fixed the format of the CVS tag and minor code style issues.
+
+Sky 7.x-1.0, 2011-01-05
+-------------------------
+by Jacine: Checked in a newly rewritten version for Drupal 7.
